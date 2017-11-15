@@ -1,18 +1,18 @@
-# NazisAreTerrorists
+# \#NazisAreTerrorists
 
 ## Overview
 
 After World War II, the Nazi scourge had been overcome and the world was able
 to rebuild and hopefully squash all the hatred and ignorance that the regime had
-hoped to spread. Unfortunately, this effort lost steam slowly over the years.
+tired to spread. Unfortunately, this effort lost steam slowly over the years.
 Now with the tragic events that took place on August 12, 2017 in
 Charlottesville, Virginia it has become apparent that the cool flame to eradicate
 the world of these xenophobic ideologies must be stoked. It is clear from the
 actions taken that day, the people that accept these intolerant views will
 resort to acts of terrorism to spread their message and achieve their goals.
-Though it should have been obvious from WWII, we live in a time that it's
-better to be clear and redunant than misunderstood, let it known that
-\#NazisAreTerrorists.
+Though it should have been obvious from WWII, it needs to be said now,
+Nazis are terrorists. Unfortunately, we live in a time that it's better to be
+redunant and clear than misunderstood. Again, let it be known that **\#NazisAreTerrorists**.
 
 On THE NEXT DAY after the events in Charlottesville, Virginia, Illinois Senator
 Don Harmon filed a Senate resolution to condemn neo-Nazis as terrorists. The
@@ -22,7 +22,7 @@ suit adopting a similar House resolution.
 With the groundwork laid by the Senators and Representatives of the state of
 Illinois, it is now our turn to make it known that Nazis and their ideologies
 never have been, never are, and never will be welcome in America. We need to
-to show the world and ourselves that \#NazisAreTerrorists.
+make it unmistakably clear that **\#NazisAreTerrorists**.
 
 ## Call To Action
 
