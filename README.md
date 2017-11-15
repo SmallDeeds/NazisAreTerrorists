@@ -32,13 +32,28 @@ Email/call your local representative and ask them to sponsor the HOUSE and/or
 SENATE resolution. If the first resolution can be adopted in one day the next
 day, there's no reason we can't have the rest of the states soon after.
 
+If you want to share a link with your representative or others, use the following template:
+```
+https://raw.githubusercontent.com/SmallDeeds/NazisAreTerrorists/master/{HOUSE or SENATE}/{state name}
+```
+
+For example, if you live in Colorado and are talking to a Senator, you should send them:
+```
+https://raw.githubusercontent.com/SmallDeeds/NazisAreTerrorists/master/SENATE/COLORADO
+```
+
+As another example, if you live in Wyoming and are talking to your representative, you should send them:
+```
+https://raw.githubusercontent.com/SmallDeeds/NazisAreTerrorists/master/HOUSE/WYOMING
+```
+
 ## State Checklist
 
 - [ ] Alabama
 - [ ] Alaska
 - [ ] Arizona
 - [ ] Arkansas
-- [ ] California [SJR-13](http://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=201720180SJR13)
+- [ ] California ([SJR-13](http://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=201720180SJR13))
 - [ ] Colorado
 - [ ] Connecticut
 - [ ] Delaware
@@ -46,7 +61,7 @@ day, there's no reason we can't have the rest of the states soon after.
 - [ ] Georgia
 - [ ] Hawaii
 - [ ] Idaho
-- [x] Illinois [SR0794](http://www.ilga.gov/legislation/BillStatus.asp?DocNum=794&GAID=14&DocTypeID=SR&LegID=107638&SessionID=91&GA=100&SpecSess=0) [HR0569](http://www.ilga.gov/legislation/BillStatus.asp?DocNum=569&GAID=14&DocTypeID=HR&LegID=107649&SessionID=91&GA=100&SpecSess=0)
+- [x] Illinois ([SR0794](http://www.ilga.gov/legislation/BillStatus.asp?DocNum=794&GAID=14&DocTypeID=SR&LegID=107638&SessionID=91&GA=100&SpecSess=0)) ([HR0569](http://www.ilga.gov/legislation/BillStatus.asp?DocNum=569&GAID=14&DocTypeID=HR&LegID=107649&SessionID=91&GA=100&SpecSess=0))
 - [ ] Indiana
 - [ ] Iowa
 - [ ] Kansas
@@ -85,5 +100,5 @@ day, there's no reason we can't have the rest of the states soon after.
 - [ ] Wisconsin
 - [ ] Wyoming
 
-Total states with similar resolutions in legislature: 2/50
-Total states with adopted resolutions: 1/50
+* Total states with similar resolutions in legislature: 2/50
+* Total states with adopted resolutions: 1/50
